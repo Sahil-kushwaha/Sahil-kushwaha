@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌱 I’m currently learning and implementing Next.js.<br>💬 Ask me about anything related to full-stack web development.<br>🤝 I’m looking to collaborate on open-source MERN projects.<br>🎮 In my free time, I love to explore new tech gadgets and Technology.<br>📚 I’m a huge fan of sci-fi novels and movies.<br>⚡ Fun fact: Do You Know?   Why developers like dark mode most because they don't like bugs
+🌱 I’m currently learning and implementing Next.js.<br>💬 Ask me about anything related to full-stack web development.<br>🤝 I’m looking to collaborate on open-source MERN projects.<br>🎮 In my free time, I love to explore new tech gadgets and Technology.<br>📚 I'm fond of sci-fi movies.<br>⚡ Fun fact: Do You Know?   Why developers like dark mode most because they don't like bugs
 
 
 ## 🌐 Socials:
